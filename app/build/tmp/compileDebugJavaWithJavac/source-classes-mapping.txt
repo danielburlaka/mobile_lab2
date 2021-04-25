@@ -1,0 +1,13 @@
+com/example/lab1/ui/graph/GraphFragment.java
+ com.example.lab1.ui.graph.GraphFragment
+com/example/lab1/ui/name/NameFragment.java
+ com.example.lab1.ui.name.NameFragment
+ com.example.lab1.ui.name.NameFragment$1
+com/example/lab1/BuildConfig.java
+ com.example.lab1.BuildConfig
+com/example/lab1/MainActivity.java
+ com.example.lab1.MainActivity
+com/example/lab1/ui/linegraph/LineGraph.java
+ com.example.lab1.ui.linegraph.LineGraph
+com/example/lab1/ui/piechart/PieСhart.java
+ com.example.lab1.ui.piechart.PieСhart
