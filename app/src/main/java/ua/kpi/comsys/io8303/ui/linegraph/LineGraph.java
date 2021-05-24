@@ -33,7 +33,7 @@ public class LineGraph extends Fragment {
 
         ArrayList<Entry> lineEntries= new ArrayList<Entry>();
         for (float x = -(float)Math.PI; x < (float)Math.PI; x += 0.001) {
-            lineEntries.add( new Entry(x, (float)Math.cos(x)));
+            lineEntries.add( new Entry(x, (float)Math.sin(x)));
         }
 
         LineDataSet lineDataSet  = new LineDataSet(lineEntries, "");
